@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Assembly-CSharp</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>8be69578-c3da-d8ad-2fb3-4d00f54da959</ProjectGuid>
+  <FullPath>/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assembly-CSharp.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/.sonarqube/out/0/FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Temp/bin/Debug/Assembly-CSharp.dll.RoslynCA.json|/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Temp/bin/Debug/Assembly-CSharp.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/.sonarqube/out/0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

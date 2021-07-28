@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238728226196",
+    "project_id": "tfgines-1a46b",
+    "storage_bucket": "tfgines-1a46b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238728226196:android:0c7da8e610e3e75e3d5b81",
+        "android_client_info": {
+          "package_name": "com.google.firebase.CNN"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238728226196-8mfmu02018ah0qdi9fuu97vf0m59sgdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVbIBIlOjz1Bjgx4VxLx8TiFJXwKCKNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238728226196-8mfmu02018ah0qdi9fuu97vf0m59sgdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+Å
+x/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/CameraController.csutf-8|
+s/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/CameraModel.csutf-8z
+q/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/CropScale.csutf-8x
+o/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/Picture.csutf-8Ç
+y/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/PictureController.csutf-8Ü
+}/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/PreferencesController.csutf-8~
+u/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/PrincipalView.csutf-8Ö
+|/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/SingletonPreferences.csutf-8|
+s/Users/inesmora/Documents/TFG/CNN-in-mobile-device-master/UnityProject/ProjectUpdated/Assets/Scripts/UpdateImage.csutf-8
